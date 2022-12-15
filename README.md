@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Emirhan Yılmaz
-- 👀 I’m interested in  Cyber Security
-- 🌱 I’m currently learning  Web Applications
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in  Cyber Security and Web Developing
+- 🌱 I’m currently learning  Web Developing with MVC
+- 💞️ I’m looking to collaborate on Web Developing
 - 📫 How to reach me: emirhanylmz@protonmail.com
 
 <!---
