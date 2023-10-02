@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Emirhan Yılmaz
-- 👀 I’m interested in  Cyber Security and  Full Stack Web Developing
-- 🌱 I’m currently learning  Full Stack Web Developing with  Asp .Net Core MVC
-- 💞️ I’m looking to collaborate on Web Developing
+- 👀 I’m interested in  Cyber Security 
+- 🌱 I’m currently learning  Ethical Hacking
+- 💞️ I’m looking to collaborate on Cyber Security
 - 📫 How to reach me: emirhanylmz@protonmail.com
 
 <!---
